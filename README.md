@@ -1,3 +1,21 @@
-[Visit the hosted project here](prodigy-intern-t3-tic-tac-toe-web-application-87qcpwvx6.vercel.app)
-# Prodigy-Intern-T3-Tic-Tac-Toe-Web-application
-This Tic-Tac-Toe game was developed during my internship at Prodigy Infotech using HTML, CSS, and JavaScript. The game features a simple and interactive UI, allowing two players to compete against each other. It includes logic to detect winning combinations and highlights the winner, or declares a draw if no winning moves are left.
+[Visit the hosted project here](https://prodigy-intern-t3-tic-tac-toe-web-application.vercel.app/)
+# Tic Tac Toe Game
+A simple and interactive Tic Tac Toe Game built using HTML, CSS, and JavaScript, where two players can play against each other in the browser.
+## Features
+Two-player gameplay
+
+Highlights the winner or draw result
+
+Responsive and clean user interface
+
+Built with vanilla JavaScript (no frameworks)
+
+Deployed on Vercel
+## Tech Stack
+HTML – Structure
+
+CSS – Styling & responsiveness
+
+JavaScript – Game logic & DOM manipulation
+
+Deployment: Vercel
